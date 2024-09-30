@@ -44,8 +44,6 @@ alias cls='clear'
 alias ff='fastfetch'
 alias l='eza --color=always --long --git --no-filesize --icons=always'
 alias ls='eza --color=always --long --git --no-filesize --icons=always --all'
-alias ssh='ssh.exe'
-alias ssh-add='ssh-add.exe'
 EOF
 ```
 
