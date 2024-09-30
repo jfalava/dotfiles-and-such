@@ -6,8 +6,6 @@
 [user]
   name = Jorge Fernando Álava
   email = git@jfa.dev
-[core]
-  sshCommand = C:/Windows/System32/OpenSSH/ssh.exe
 [alias]
   undo = reset --soft HEAD^
 ```
@@ -18,4 +16,6 @@
 [user]
   name = Jorge Fernando Álava
   email = git@jfa.dev
+[alias]
+  undo = reset --soft HEAD^
 ```
