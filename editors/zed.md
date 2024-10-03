@@ -35,13 +35,14 @@
     "font_size": 14,
     "font_weight": 400,
     "shell": {
-      "with_arguments": { "program": "powershell.exe", "args": [] }
+      "with_arguments": { "program": "pwsh", "args": [] }
     }
   },
   "theme": {
     "mode": "system",
     "light": "Xcode Bare",
-    "dark": "Xcode Presentation Dark"
+    "dark": "Catppuccin Mocha (Blur)"
   }
 }
+
 ```
