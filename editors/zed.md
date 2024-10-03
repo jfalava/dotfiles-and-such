@@ -3,8 +3,10 @@
 ```json
 {
   "auto_update_extensions": {
-    "astro": false,
-    "emmet": false
+    "astro": true,
+    "emmet": true,
+    "toml": true,
+    "git_firefly": true
   },
   "assistant": {
     "default_model": {
@@ -39,7 +41,7 @@
   "theme": {
     "mode": "system",
     "light": "Xcode Bare",
-    "dark": "poimandres storm"
+    "dark": "Xcode Presentation Dark"
   }
 }
 ```
