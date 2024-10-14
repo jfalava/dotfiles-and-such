@@ -2,12 +2,6 @@
 
 ```json
 {
-  "auto_update_extensions": {
-    "astro": true,
-    "emmet": true,
-    "toml": true,
-    "git_firefly": true
-  },
   "assistant": {
     "default_model": {
       "provider": "zed.dev",
@@ -40,8 +34,8 @@
   },
   "theme": {
     "mode": "system",
-    "light": "Xcode Bare",
-    "dark": "Catppuccin Mocha (Blur)"
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Mocha"
   }
 }
 
