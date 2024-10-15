@@ -22,6 +22,7 @@ brew install bat
 brew install zoxide
 brew install eza
 brew install fastfetch
+brew install ffmpeg
 ##
 echo "1234" | sudo -S chsh -s $(which zsh) jfalava
 curl -s https://ohmyposh.dev/install.sh | bash -s
