@@ -9,7 +9,8 @@
     "astro": true,
     "discord-presence": true,
     "catpuccin-themes": true,
-    "git-firefly": true
+    "git-firefly": true,
+    "powershell": true
   },
   "assistant": {
     "default_model": {
