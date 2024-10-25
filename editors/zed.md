@@ -10,7 +10,13 @@
     "discord-presence": true,
     "catpuccin-themes": true,
     "git-firefly": true,
-    "powershell": true
+    "powershell": true,
+    "ini": true,
+    "toml": true,
+    "sql": true,
+    "terraform": true,
+    "env": true,
+    "emmet": true,
   },
   "assistant": {
     "default_model": {
