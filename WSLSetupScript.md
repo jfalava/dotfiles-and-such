@@ -1,7 +1,5 @@
 # WSL
 
-## One-click setup script
-
 ```sh
 #/bin/sh
 ## Update Packages ##
